@@ -1,4 +1,4 @@
-# EDA on startup's crowd sourced on Kickstarter
+# EDA on startup's funded by crowdsourcing on Kickstarter
 
 Here is the data set on Kaggle ⏹️ [data](https://www.kaggle.com/datasets/kemical/kickstarter-projects)
 
